@@ -10,3 +10,10 @@ This script allows you to geocode addresses into lat, lon in Tableau Prep.
 This is how things should look like before you add the script step:
 
 ![Before Script Step](https://github.com/Mike-Morrow/geocode_tableau_prep/blob/master/Before_Script.JPG?raw=true)
+
+This is what the script step should look like:
+
+*note we've connected to our TabPy Server and we've specified our function name 'geocode'
+
+![Script Step](https://github.com/Mike-Morrow/geocode_tableau_prep/blob/master/Script%20Step.JPG?raw=true)
+
