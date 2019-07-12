@@ -7,6 +7,8 @@ This script allows you to geocode addresses into lat, lon in Tableau Prep.
 1) Must name your address column 'Address'
 2) Must have a 'lat' column and 'lon' column that are decimal data types. You can do this by creating a calculated field and with value 0.0 
 
+*note there is a way to define schema in the script as well that we're not using (hence the need to add lat, lon columns)
+
 ## This is how things should look like before you add the script step
 
 ![Before Script Step](https://github.com/Mike-Morrow/geocode_tableau_prep/blob/master/Before_Script.JPG?raw=true)
