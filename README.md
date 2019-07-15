@@ -20,3 +20,4 @@ This script allows you to geocode addresses into lat, lon in Tableau Prep.
 
 ![Script Step](https://github.com/Mike-Morrow/geocode_tableau_prep/blob/master/Script%20Step.JPG?raw=true)
 
+If you were wondering what these addresses are... they are chipotles 🌯
